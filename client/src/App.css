@@ -1,0 +1,69 @@
+.navbar-brand{
+
+position: absolute;
+left: 13.69%;
+right: 72.18%;
+top: 23.75%;
+bottom: 23.75%;
+
+font-family: 'Yeseva One';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 42px;
+/* identical to box height */
+text-transform: uppercase;
+
+/* Primary */
+color: #1F2B6C;
+}
+
+
+
+.phoneicon{
+position: absolute;
+left: 40.7%;
+right: 56.35%;
+top: 30%;
+bottom: 22.26%;
+
+
+}
+
+.timeicon{
+    /* Group 177 */
+
+position: absolute;
+left: 55.83%;
+right: 41.97%;
+top: 31.25%;
+bottom: 31.25%;
+
+
+
+}
+
+.locationicon
+{
+    /* Group 178 */
+
+position: absolute;
+left: 73.67%;
+right: 24.13%;
+top: 27.5%;
+bottom: 27.5%;
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
