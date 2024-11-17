@@ -59,11 +59,448 @@ bottom: 27.5%;
 }
 
 
+.phonetext{
+ /* Emergency */
+
+position: absolute;
+left: 44.05%;
+right: 48.71%;
+top: 25%;
+bottom: 51.25%;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+text-transform: uppercase;
+
+/* Primary */
+color: #1F2B6C;
+
+
+
+
+}
+
+
+.phonetext1{
+    /* (237) 681-812-255 */
+
+position: absolute;
+left: 44.05%;
+right: 45.7%;
+top: 51.25%;
+bottom: 25%;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 50px;
+/* identical to box height */
+
+/* Secondary */
+color: #159EEC;
+
+
+}
+
+
+.locationtext{
+/* Location */
+
+position: absolute;
+left: 76.58%;
+right: 17.57%;
+top: 26.25%;
+bottom: 50%;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+text-transform: uppercase;
+
+/* Primary */
+color: #1F2B6C;
+
+
+}
+
+.locationtext1{
+    /* 0123 Some Place */
+
+position: absolute;
+left: 76.58%;
+right: 13.69%;
+top: 52.5%;
+bottom: 23.75%;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 50px;
+/* identical to box height */
+
+/* Secondary */
+color: #159EEC;
+
+
+    
+}
+
+
+.timetext{
+    /* Work Hour */
+
+position: absolute;
+left: 58.74%;
+right: 32.94%;
+top: 26.25%;
+bottom: 50%;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+text-transform: uppercase;
+
+/* Primary */
+color: #1F2B6C;
+
+
+}
+.timetext1{
+    /* 09:00 - 20:00 Everyday */
+
+position: absolute;
+left: 58.74%;
+right: 27.87%;
+top: 52.5%;
+bottom: 23.75%;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 50px;
+/* identical to box height */
+
+/* Secondary */
+color: #159EEC;
+
+
+}
+
+
+.nav2{
+
+/* Navbar */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+
+padding: 17px 187px 18px;
+gap: 276px;
+
+position: relative;
+width: 1366px;
+height: 80px;
+left: 0px;
+top: 50px;
+
+/* Primary */
+background: #1F2B6C;
+}
+
+
+
+
+.searchicon{
+    /* Group 175 */
+
+position: relative;
+left: 94.06%;
+right: 28.48%;
+top: 36.25%;
+bottom: 38.75%;
 
 
 
 
 
+}
 
+.nav-linkhome{
+/* Home */
+
+width: 52px;
+height: 21px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 21px;
+
+
+/* Accent */
+color: #BFD2F8;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+}
+.nav-linkabout{
+/* About us */
+
+width: 80px;
+height: 21px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+
+/* white */
+color: #FCFEFE;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+}
+
+.nav-linkdoctor{
+/* Doctors */
+
+width: 70px;
+height: 21px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+
+/* white */
+color: #FCFEFE;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+}
+
+
+.nav-linkservice{
+/* Services */
+
+width: 74px;
+height: 21px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+
+/* white */
+color: #FCFEFE;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+}
+
+.nav-linknews{
+/* News */
+
+width: 49px;
+height: 21px;
+color: inherit;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+
+/* white */
+color: #FCFEFE;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+}
+.nav-linkcontact{
+/* Contact */
+
+width: 70px;
+height: 21px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+
+/* white */
+color: #FCFEFE;
+
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+}
+
+
+
+.frame1{
+
+/* Frame 7 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 20px;
+margin-left:0%;
+width: 495px;
+height: 21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+}
+
+
+.nav-linkabout:hover,
+.nav-linkcontact:hover,
+.nav-linknews:hover,
+.nav-linkdoctor:hover,
+.nav-linkhome:hover,
+.nav-linkservice:hover{
+    text-decoration: none;
+    color: inherit;
+}
+
+.buttonapp{
+    /* Button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 13px 35px;
+gap: 10px;
+
+position: relative;
+left: 105.72%;
+right: 13.62%;
+top: 21.25%;
+bottom: 22.5%;
+
+/* Accent */
+background: #BFD2F8;
+border-radius: 50px;
+
+
+}
+
+
+/* 
+position: absolute;
+width: 734px;
+height: 734px;
+left: -387px;
+top: -599px;
+
+background: #159EEC;
+opacity: 0.3;
+ */
+
+ /* Physician_Trends_2021_Merritt_Hawkins 2 */
+.bg{
+position: relative;
+width: 1366px;
+height: 550px;
+left: 0px;
+top: 50px;
+
+}
+
+
+
+.buttonnn{
+/* Button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 13px 35px;
+gap: 10px;
+
+position: absolute;
+
+left: 187px;
+top: 484px;
+
+/* Accent */
+background: #BFD2F8;
+border-radius: 50px;
+
+
+/* Button */
+
+width: 170px;
+height: 45px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 19px;
+/* identical to box height */
+
+/* Primary */
+color: #1F2B6C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+}
 
 
