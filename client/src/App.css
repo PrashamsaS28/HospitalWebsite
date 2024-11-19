@@ -504,3 +504,489 @@ flex-grow: 0;
 }
 
 
+.imagee{
+    position: relative;
+    width:100%;
+    
+  
+}
+
+.bg1{
+    margin-top: 3.5%;
+    width: 100%;
+   
+  
+}
+
+
+
+.bg{
+ position: absolute;
+margin-top: 27%;
+margin-left: 60%;
+margin-right: 0%;
+ width:40%;
+ height: 40%;
+ 
+}
+.bg2{
+    position: absolute;
+    margin-top: 3.5%;
+   }
+   
+
+/* Leading the Way in Medical Excellence */
+.text1{
+position: absolute;
+width: 519px;
+height: 110px;
+left: 186px;
+top: 356px;
+
+font-family: 'Yeseva One';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 55px;
+
+/* Primary */
+color: #1F2B6C;
+
+}
+
+
+
+.text{
+    /* Caring for Life */
+
+position: absolute;
+width: 240px;
+height: 21px;
+left: 187px;
+top: 327px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 21px;
+letter-spacing: 0.16em;
+text-transform: uppercase;
+
+/* Secondary */
+color: #159EEC;
+
+
+}
+
+
+
+.topbutton{
+    /* Button */
+
+width: 100px;
+height: 19px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 1000;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+/* Primary */
+color: #1F2B6C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+}
+
+.topbutton{
+    /* Button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 13px 35px;
+gap: 10px;
+
+position: absolute;
+width: 170px;
+height: 45px;
+left: 187px;
+top: 498px;
+
+/* Accent */
+background: #BFD2F8;
+border-radius: 50px;
+
+}
+
+
+
+
+
+.ok{
+    /* Goals */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 25px 20px;
+gap: 56px;
+
+position: absolute;
+width: 317px;
+height: 100px;
+left: 187px;
+top: 660px;
+
+/* Primary */
+background: #1F2B6C;
+border-radius: 5px;
+
+
+/* Book an Appointment */
+
+width: 171px;
+height: 22px;
+
+/* Body */
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 140%;
+/* or 22px */
+
+/* white */
+color: #FCFEFE;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* 39.-Calendar */
+
+width: 50px;
+height: 50px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Layer-1 */
+
+position: absolute;
+left: 77.92%;
+right: 6.31%;
+top: 25%;
+bottom: 25%;
+
+/* Accent */
+border: 2px solid #BFD2F8;
+
+
+/* Layer-2 */
+
+position: absolute;
+left: 79.5%;
+right: 17.35%;
+top: 40%;
+bottom: 50%;
+
+/* Accent */
+border: 2px solid #BFD2F8;
+
+
+/* Layer-3 */
+
+position: absolute;
+left: 82.65%;
+right: 14.2%;
+top: 40%;
+bottom: 50%;
+
+/* Accent */
+border: 2px solid #BFD2F8;
+
+
+/* Layer-4 */
+
+position: absolute;
+left: 85.8%;
+right: 11.04%;
+top: 40%;
+bottom: 50%;
+
+/* Accent */
+border: 2px solid #BFD2F8;
+
+
+/* Layer-5 */
+
+position: absolute;
+left: 88.96%;
+right: 7.89%;
+top: 40%;
+bottom: 50%;
+
+/* Accent */
+border: 2px solid #BFD2F8;
+
+
+/* Layer-6 */
+
+position: absolute;
+left: 88.96%;
+right: 7.89%;
+top: 50%;
+bottom: 40%;
+
+/* Accent */
+border: 2px solid #BFD2F8;
+
+
+/* Layer-7 */
+
+position: absolute;
+left: 85.8%;
+right: 11.04%;
+top: 50%;
+bottom: 40%;
+
+/* Accent */
+border: 2px solid #BFD2F8;
+
+
+/* Layer-8 */
+
+position: absolute;
+left: 82.65%;
+right: 14.2%;
+top: 50%;
+bottom: 40%;
+
+/* Accent */
+border: 2px solid #BFD2F8;
+
+
+/* Layer-9 */
+
+position: absolute;
+left: 79.5%;
+right: 17.35%;
+top: 50%;
+bottom: 40%;
+
+/* Accent */
+border: 2px solid #BFD2F8;
+
+
+/* Layer-10 */
+
+position: absolute;
+left: 79.5%;
+right: 17.35%;
+top: 60%;
+bottom: 30%;
+
+/* Accent */
+border: 2px solid #BFD2F8;
+
+
+/* Layer-11 */
+
+position: absolute;
+left: 82.65%;
+right: 14.2%;
+top: 60%;
+bottom: 30%;
+
+/* Accent */
+border: 2px solid #BFD2F8;
+
+
+/* Layer-12 */
+
+position: absolute;
+left: 85.8%;
+right: 11.04%;
+top: 60%;
+bottom: 30%;
+
+/* Accent */
+border: 2px solid #BFD2F8;
+
+
+/* Layer-13 */
+
+position: absolute;
+left: 81.07%;
+right: 17.35%;
+top: 25%;
+bottom: 70%;
+
+/* Accent */
+border: 2px solid #BFD2F8;
+
+
+/* Layer-14 */
+
+position: absolute;
+left: 88.96%;
+right: 9.46%;
+top: 25%;
+bottom: 70%;
+
+/* Accent */
+border: 2px solid #BFD2F8;
+
+
+/* 27.-Team */
+
+display: none;
+width: nanpx;
+height: nanpx;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Layer-1 */
+
+position: absolute;
+left: 113%;
+right: -25.49%;
+top: 28.88%;
+bottom: 29.01%;
+
+/* Accent */
+border: 2px solid #BFD2F8;
+
+
+/* Layer-2 */
+
+position: absolute;
+left: 111.36%;
+right: -27.13%;
+top: 37.76%;
+bottom: 28.88%;
+
+/* Accent */
+border: 2px solid #BFD2F8;
+
+
+/* 15.-Cash */
+
+display: none;
+width: nanpx;
+height: nanpx;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Layer-1 */
+
+position: absolute;
+left: 144.79%;
+right: -60.57%;
+top: 31.77%;
+bottom: 38.23%;
+
+/* Accent */
+border: 2px solid #BFD2F8;
+
+
+/* Layer-2 */
+
+position: absolute;
+left: 145.45%;
+right: -59.91%;
+top: 61.98%;
+bottom: 34.9%;
+
+/* Accent */
+border: 2px solid #BFD2F8;
+
+
+/* Layer-3 */
+
+position: absolute;
+left: 146.11%;
+right: -59.25%;
+top: 65.1%;
+bottom: 31.77%;
+
+/* Accent */
+border: 2px solid #BFD2F8;
+
+
+/* Layer-4 */
+
+position: absolute;
+left: 150.07%;
+right: -55.14%;
+top: 35.94%;
+bottom: 41.94%;
+
+/* Accent */
+border: 2px solid #BFD2F8;
+
+
+/* Layer-5 */
+
+position: absolute;
+left: 145.95%;
+right: -59.42%;
+top: 35.94%;
+bottom: 41.94%;
+
+/* Accent */
+border: 2px solid #BFD2F8;
+
+
+/* Layer-6 */
+
+position: absolute;
+left: 147.85%;
+right: -48.8%;
+top: 45.42%;
+bottom: 51.42%;
+
+/* Accent */
+border: 2px solid #BFD2F8;
+
+
+/* Layer-7 */
+
+position: absolute;
+left: 156.25%;
+right: -57.2%;
+top: 45.42%;
+bottom: 51.42%;
+
+/* Accent */
+border: 2px solid #BFD2F8;
+
+}
