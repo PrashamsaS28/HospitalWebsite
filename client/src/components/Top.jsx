@@ -14,7 +14,7 @@ const Top = () => {
       <h1 className='text1'>Leading the Way
       in Medical Excellence</h1>
       <button className='topbutton'>Our Services</button>
-    <div ok>ok</div>
+ 
     </div>
   )
 }

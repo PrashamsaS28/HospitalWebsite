@@ -990,3 +990,410 @@ bottom: 51.42%;
 border: 2px solid #BFD2F8;
 
 }
+
+
+
+.button1{
+ 
+/* Goals */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 25px 20px;
+gap: 56px;
+
+position: absolute;
+width: 317px;
+height: 70px;
+left: 187px;
+top: 710px;
+
+/* Primary */
+background: #1F2B6C;
+border-radius: 5px;
+border:#1F2B6C;
+color: white;
+
+
+
+}
+
+.calendar{
+  /* 39.-Calendar */
+
+width: 40px;
+height: 40px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+}
+
+
+.button2{
+/* Goals */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 25px 20px;
+gap: 56px;
+
+position: absolute;
+width: 317px;
+height: 70px;
+left: 524px;
+top: 710px;
+
+/* Accent */
+background: #BFD2F8;
+border:#BFD2F8;
+border-radius: 5px;
+}
+
+.team{
+    /* 27.-Team */
+
+width: 50px;
+height: 42.24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+}
+
+
+
+.button3{
+    /* Goals */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 25px 20px;
+gap: 56px;
+
+position: absolute;
+width: 317px;
+height: 70px;
+left: 862px;
+top: 710px;
+
+/* Secondary */
+background: #159EEC;
+border-radius: 5px;
+border:#159EEC
+}
+
+
+.heading{
+   
+
+position: absolute;
+width: 304px;
+height: 21px;
+left: 530px;
+top: 824px;
+
+/* Caption */
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 21px;
+text-align: center;
+letter-spacing: 0.16em;
+text-transform: uppercase;
+
+/* Secondary */
+color: #159EEC;
+
+}
+
+
+.heading1{
+    /* A Great Place to Receive Care */
+
+position: absolute;
+width: 473px;
+height: 37px;
+left: 447px;
+top: 853px;
+
+/* Display 2 */
+font-family: 'Yeseva One';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 37px;
+/* identical to box height */
+text-align: center;
+
+/* Primary */
+color: #1F2B6C;
+
+
+}
+
+
+
+.heading3{
+    /* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque placerat scelerisque tortor ornare ornare. Convallis felis vitae tortor augue. Velit nascetur proin massa in. Consequat faucibus porttitor enim et. */
+
+position: absolute;
+width: 658px;
+height: 66px;
+left: 354px;
+top: 905px;
+
+/* Body */
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 140%;
+/* or 22px */
+text-align: center;
+
+/* Black */
+color: #212124;
+
+
+}
+
+
+.reacticon{
+   /* Vector */
+
+width: 10.83px;
+height: 10px;
+
+/* Primary */
+color: #1F2B6C;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+}
+
+.link1{
+    /* Link Button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+position: absolute;
+width: 109.83px;
+height: 22px;
+left: 642px;
+top: 1003px;
+
+
+}
+
+
+.medical{
+    /* Group 183 */
+
+position: absolute;
+width: 992px;
+height: 250px;
+left: 187px;
+top: 1086px;
+
+
+}
+
+
+.hs1{
+    /* Care you can believe in */
+
+position: absolute;
+width: 321px;
+height: 21px;
+left: 532px;
+top: 1400px;
+
+/* Caption */
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 21px;
+text-align: center;
+letter-spacing: 0.16em;
+text-transform: uppercase;
+
+/* Secondary */
+color: #159EEC;
+
+
+}
+
+
+.hs2{
+    /* Our Services */
+
+position: absolute;
+width: 204px;
+height: 37px;
+left: 581px;
+top: 1429px;
+
+/* Display 2 */
+font-family: 'Yeseva One';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 37px;
+/* identical to box height */
+text-align: center;
+
+/* Primary */
+color: #1F2B6C;
+
+
+}
+
+
+.homeimg1{
+    /* Group 186 */
+
+position: absolute;
+width: 324px;
+height: 231.34px;
+left: 855px;
+top: 1530px;
+
+
+}
+
+.homeimg2{
+    /* Group 187 */
+
+position: absolute;
+width: 324px;
+height: 231.34px;
+left: 855px;
+top: 1782.66px;
+
+
+}
+
+
+.hs3{
+    /* A passion for putting patients first. */
+
+position: absolute;
+width: 447px;
+height: 30px;
+left: 364px;
+top: 1557px;
+
+/* Title */
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 26px;
+line-height: 30px;
+
+color: #000000;
+
+
+}
+
+
+.hs4{
+    /* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque placerat scelerisque tortor ornare ornare. Quisque placerat scelerisque tortor ornare ornare Convallis felis vitae tortor augue. Velit nascetur proin massa in. Consequat faucibus porttitor enim et. */
+
+position: absolute;
+width: 470px;
+height: 110px;
+left: 364px;
+top: 1750px;
+
+/* Body */
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 140%;
+/* or 22px */
+
+/* Black */
+color: #212124;
+
+
+}
+
+
+.hs5{
+    /* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque placerat scelerisque. Convallis felis vitae tortor augue. Velit nascetur proin massa in. */
+
+position: absolute;
+width: 470px;
+height: 66px;
+left: 364px;
+top: 1876px;
+
+/* Body */
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 140%;
+/* or 22px */
+
+/* Black */
+color: #212124;
+
+
+}
+
+.sectionn{
+    /* Group 18 */
+
+position: absolute;
+width: 415px;
+height: 107px;
+left: 340px;
+top: 1611px;
+
+
+}
+
+
+
+.list1{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+   column-gap:57px;
+}
+
+
+.list1 li::marker{
+    color: #159EEC;
+    font-size: 1.5rem;
+}
